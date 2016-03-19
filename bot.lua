@@ -55,7 +55,7 @@ _just send a photo_
 
 function is_admin(msg)-- Check if user is admin or not
   local var = false
-  local admins = {}-- put your id here
+  local admins = {168546052}-- put your id here
   for k,v in pairs(admins) do
     if msg.from.id == v then
       var = true
