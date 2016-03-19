@@ -46,7 +46,7 @@ _just send a sticker_
 *photo to sticker*
 _just send a photo_
 
-[Source](https://github.com/pAyDaAr/lua-api-bot) ;-)
+[Source](https://github.com) ;-)
 ]] 
 
 -------
